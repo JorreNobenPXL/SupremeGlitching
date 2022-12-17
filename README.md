@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SupremeGlitching
 - 👀 I’m interested in Coding FiveM, playing video games.
 - 🌱 I’m currently learning Lua, Python, Java, PHP.
-- 💞️ I’m currently working on a FiveM server, and on a ticket qr code scanner app.
+- 💞️ I’m currently working on a FiveM server, and on a ticket QR code scanner app.
 - 📫 How to reach me via discord SupremeLitsing#2612
 
 <!---
